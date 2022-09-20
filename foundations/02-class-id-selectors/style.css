@@ -4,7 +4,7 @@
 
 }
 
-.second{
+#second{
     color: rgb(0, 0, blue);
     font-size: 36px;
 
@@ -15,7 +15,7 @@
 
 }
 
-.fourth{
+#fourth{
     background-color: rgba(128,255,128,255);
     font-size: 24px;
     font-weight: bold;
